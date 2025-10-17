@@ -1,0 +1,17 @@
+{
+  "name": "TrustCoin",
+  "symbol": "TRUST",
+  "image": "https://raw.githubusercontent.com/DaveTheDev-Sol/trustcoin-assets/main/TrustCoin500.png",
+  "description": "Trust the coin",
+  "attributes": [
+    { "trait_type": "Type", "value": "Memecoin" },
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Launch Year", "value": "2025" },
+    { "trait_type": "Banner", "value": "https://raw.githubusercontent.com/DaveTheDev-Sol/trustcoin-assets/main/TrustCoinBanner.png" }
+  ],
+  "extensions": {
+    "website": "https://x.com/DaveTheDev_Sol",
+    "twitter": "https://x.com/DaveTheDev_Sol",
+    "telegram": "https://x.com/DaveTheDev_Sol"
+  }
+}
